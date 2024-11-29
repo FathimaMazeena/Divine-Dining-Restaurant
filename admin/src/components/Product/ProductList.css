@@ -1,0 +1,28 @@
+.product-table{
+    height: 100vh;
+    z-index: 1000;
+}
+
+.add-button {
+    background-color:aliceblue;
+    font-size: 24px; /* Adjusted font size for a better fit */
+    width: 150px; /* Set equal width */
+    height: 50px; /* Set equal height */
+    position: fixed;
+    bottom: 20px; /* Position 20px from the bottom */
+    right: 20px; /* Position 20px from the right */
+    display: flex; /* Use flexbox to center the content */
+    align-items: center; /* Center the '+' vertically */
+    justify-content: center; /* Center the '+' horizontally */
+    border: 1px black solid;
+    border-radius:10px; /* Make the button circular */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Add a slight shadow */
+    z-index: 1000; /* Ensure it stays above other elements */
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+.add-button p{
+    color: black;
+    text-decoration: none;
+}
+

@@ -1,0 +1,31 @@
+.sidebar-nav{
+    display: flex;
+    flex-direction:column;
+    padding-top:30px;
+    gap:20px;
+    width:100%;
+    max-width: 250px;
+    height:100vh;
+    background:#e0e0e0;
+    list-style-type: none;
+
+}
+
+/* .sidebar-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 20px;
+    padding: 5px 10px;
+    border-radius: 6px;
+    background:whitesmoke;
+    gap: 20px;
+    cursor: pointer;
+
+} */
+
+.sidebar-link{
+text-decoration: none;
+color:black;
+}
+

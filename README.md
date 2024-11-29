@@ -1,0 +1,4 @@
+# Divine-Dining-Restaurant
+This project, developed for the Advanced Programming assignment, is a full-stack website for a restaurant, enabling online customers to place orders, make reservations, and browse menus. Key features include authentication and authorization using cookies and sessions, along with confirmation emails for orders and reservations. Built using the MERN stack, this project represents a significant milestone in my journey, showcasing advanced skills in web development.
+
+Future enhancements for the project include enhancing the user interface and experience, implementing advanced features such as report generation for data analysis by admins, integrating secure payment gateways, and adding delivery tracking functionality to streamline the customer journey and operational efficiency.
